@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cyberpunk Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=cyber&color=auto&height=220&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=18&descAlignY=72" width="100%" />
+<!-- Waving Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=68" width="100%" />
 
 <br/>
 
@@ -75,7 +75,7 @@ Developer_Profile:
 
 ---
 
-### 📈 GitHub Contribution Activity Graph
+### 📈 Contribution Activity Graph
 
 <div align="center">
 
