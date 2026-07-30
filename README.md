@@ -85,12 +85,12 @@ Developer_Profile:
 
 ---
 
-### 📊 GitHub Performance Stats
+### 📊 GitHub Profile Performance & Language Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=criticalHit77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=criticalHit77&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=criticalHit77&theme=tokyonight" width="48%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criticalHit77&theme=tokyonight" width="48%" alt="Repos per Language" />
 
 </div>
 
