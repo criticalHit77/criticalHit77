@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/criticalHit77">
-    <img src="https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=6366f1&logo=github" />
+    <img src="https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=6366f1&logo=github&cacheSeconds=3600" />
   </a>
   <a href="https://github.com/criticalHit77?tab=repositories">
-    <img src="https://img.shields.io/github/stars/criticalHit77?label=Stars&style=for-the-badge&color=f59e0b&logo=github" />
+    <img src="https://img.shields.io/github/stars/criticalHit77?label=Stars&style=for-the-badge&color=f59e0b&logo=github&cacheSeconds=3600" />
   </a>
 </p>
 
