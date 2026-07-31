@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cyber-Neon Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=36&fontColor=ffffff&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20%26%20Distributed%20Systems&descSize=16&descAlignY=70" width="100%" />
+# ⚡ Sanjay Kumar Mandal
+### **Software Engineer @ Amdocs • Java & Distributed Systems Architect**
 
 <br/>
 
@@ -9,6 +9,8 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Amdocs;Java+%26+Scala+Backend+Systems+Architect;Event-Driven+Microservices+with+Apache+Kafka;Mastering+DSA+%26+Distributed+System+Design;Creator+of+DevForge+SDE" alt="Typing SVG" />
 </a>
+
+<br/><br/>
 
 <p align="center">
   <a href="https://github.com/criticalHit77">
@@ -98,7 +100,6 @@ Motto    : "First, solve the problem. Then, write the code."
 
 <div align="center">
 
-<!-- Cyber-Neon Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%" />
+*“First, solve the problem. Then, write the code.” — John Johnson*
 
 </div>
