@@ -1,23 +1,32 @@
 <div align="center">
 
-# ⚡ Sanjay Kumar Mandal
-### **Software Engineer @ Amdocs • Java & Distributed Systems Architect**
+```text
+  ___             _             _  ___                         __  __                 _       _ 
+ / __|  __ _  _ _| |_  __ _ _ _| |/ (_)  _ _ __  __ _ _ _    |  \/  |__ _ _ _  __| |__ _| |
+ \__ \ / _` || ' \  _|/ _` | '_| ' <| | | ' '  \/ _` | '_|   | |\/| / _` | ' \/ _` / _` | |
+ |___/ \__,_||_||_\__|\__,_|_| |_|\_\_|_|_|_|_|_\__,_|_|     |_|  |_\__,_|_||_\__,_\__,_|_|
+```
+
+### ⚡ **SOFTWARE ENGINEER @ AMDOCS** ⚡
+*Java & Scala Backend Systems • Distributed Event-Driven Architecture • High-Throughput Pipelines*
 
 <br/>
 
-<!-- Neon Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Amdocs;Java+%26+Scala+Backend+Systems+Architect;Event-Driven+Microservices+with+Apache+Kafka;Mastering+DSA+%26+Distributed+System+Design;Creator+of+DevForge+SDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Building+Scalable+Java%2FScala+Backend+Microservices;%E2%9A%A1+Architecting+Kafka+Event-Driven+Pipelines;%E2%9A%A1+Mastering+DSA+%26+High-Performance+System+Design;%E2%9A%A1+Creator+of+DevForge+SDE" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <p align="center">
   <a href="https://github.com/criticalHit77">
-    <img src="https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=ec4899&logo=github&cacheSeconds=3600" />
+    <img src="https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=6366f1&logo=github&cacheSeconds=3600" />
   </a>
   <a href="https://github.com/criticalHit77?tab=repositories">
-    <img src="https://img.shields.io/github/stars/criticalHit77?label=Stars&style=for-the-badge&color=6366f1&logo=github&cacheSeconds=3600" />
+    <img src="https://img.shields.io/github/repositories/item-count/criticalHit77?label=Repositories&style=for-the-badge&color=ec4899&logo=github&cacheSeconds=3600" />
+  </a>
+  <a href="https://github.com/criticalHit77?tab=stars">
+    <img src="https://img.shields.io/github/stars/criticalHit77?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github&cacheSeconds=3600" />
   </a>
 </p>
 
@@ -25,59 +34,75 @@
 
 ---
 
-### 💻 Developer Profile Status
+### 💻 `whoami` & Terminal Overview
 
-```bash
-sanjay@devforge-sde ~ % neofetch --profile
------------------------------------------
-OS       : macOS (Apple Silicon)
-Role     : Software Engineer @ Amdocs
-Focus    : High-Throughput Java/Scala Backend Services & Microservices
-Pipeline : Apache Kafka, Spring Boot 3, Spring Data JPA, PostgreSQL
-Status   : 🚀 Building DevForge SDE & Mastering Advanced System Design
-Motto    : "First, solve the problem. Then, write the code."
+```json
+{
+  "developer": {
+    "name": "Sanjay Kumar Mandal",
+    "handle": "criticalHit77",
+    "company": "Amdocs",
+    "role": "Software Engineer",
+    "primary_languages": ["Java 17+", "Scala", "SQL", "Python"],
+    "backend_stack": ["Spring Boot 3", "Spring Data JPA", "Hibernate", "REST APIs"],
+    "event_streaming": ["Apache Kafka", "Distributed Pipelines"],
+    "databases_cloud": ["PostgreSQL", "Redis", "Docker"],
+    "active_project": "DevForge SDE (Dual-Track DSA & Java Engine)"
+  }
+}
 ```
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Radar & Ecosystem Matrix
 
-<div align="center">
-
-#### ⚡ Languages & Core
-![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### 🛢️ Infrastructure, Messaging & Data
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">☕ Core & Backend</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🛢️ Data & Streaming</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚡ Frontend & Tools</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/macOS_Silicon-000000?style=flat-square&logo=apple&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Repository
+### 🚀 Highlighted Project: **DevForge SDE**
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :---: |
-| ⚡ **[devforge-sde](https://github.com/criticalHit77/devforge-sde)** | Dual-Track Master Platform for Striver's 191 SDE Sheet Problems & Java Backend Engineering | React, Vite, Java, Spring |
+> **[DevForge SDE](https://github.com/criticalHit77/devforge-sde)** is an open-source, dual-track preparation platform built for Software Engineers mastering **Striver's 191 SDE Sheet Problems** and **30 Java Backend Engineering Modules**.
+
+- **Features**: Dual-track switching, dynamic capacity re-balancing rollover, real-time solved badges, notes drawer, and full JSON export/import.
+- **Tech Stack**: React 18, Vite, Java 17, Spring Boot.
 
 ---
 
-### 📈 Activity & Contribution Graph
+### 📈 Activity & Contribution Timeline
 
 <div align="center">
 
