@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=36&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs&descSize=16&descAlignY=68" width="100%" />
+<!-- Sharp Diagonal Slice Header (No Waves) -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=2ea44f&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=36&fontColor=ffffff&desc=Software%20Engineer%20%40%20Amdocs&descSize=16&descAlignY=68" width="100%" />
 
 <br/>
 
@@ -45,6 +45,16 @@ I'm a **Software Engineer at Amdocs** passionate about building high-performance
 
 ---
 
+### 🎮 Contribution Grid Snake Game Animation
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/criticalHit77/criticalHit77/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ### 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Repository |
@@ -54,7 +64,7 @@ I'm a **Software Engineer at Amdocs** passionate about building high-performance
 
 ---
 
-### 📈 GitHub Contribution Activity
+### 📈 GitHub Profile Analytics
 
 <div align="center">
 
@@ -70,9 +80,6 @@ I'm a **Software Engineer at Amdocs** passionate about building high-performance
 ---
 
 <div align="center">
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=120&section=footer" width="100%" />
 
 *“First, solve the problem. Then, write the code.” — John Johnson*
 
