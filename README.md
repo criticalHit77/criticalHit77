@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cyber-Neon Gradient Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=bg:6366f1,ec4899&height=210&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20%26%20Distributed%20Systems&descSize=16&descAlignY=70" width="100%" />
+<!-- Cyber-Neon Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=36&fontColor=ffffff&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20%26%20Distributed%20Systems&descSize=16&descAlignY=70" width="100%" />
 
 <br/>
 
@@ -99,6 +99,6 @@ Motto    : "First, solve the problem. Then, write the code."
 <div align="center">
 
 <!-- Cyber-Neon Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bg:ec4899,6366f1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%" />
 
 </div>
