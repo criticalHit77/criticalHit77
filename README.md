@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Liquid Cyber Venom Header with Smooth FadeIn Animation (No Twinkling) -->
+<!-- Animated Liquid Cyber Venom Header with Smooth FadeIn Animation -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:6366F1&height=200&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=70" width="100%" />
 
 <br/>
@@ -15,6 +15,21 @@
 [![Followers](https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=00f5ff&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77)
 [![Repositories](https://img.shields.io/github/repositories/item-count/criticalHit77?label=Repositories&style=for-the-badge&color=6366f1&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/criticalHit77?label=Total%20Stars&style=for-the-badge&color=ec4899&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=stars)
+
+<br/>
+
+<!-- Connect & Social Links -->
+<p align="center">
+  <a href="https://github.com/criticalHit77">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sanjaymandal4627@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 </div>
 
