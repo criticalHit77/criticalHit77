@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Neon Cyan-Purple Sharp Gradient Header Container (No Waves) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:BF5AF2&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=38&fontColor=ffffff&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=68" width="100%" />
+<!-- Sparkling Tri-Gradient Cylinder Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F5FF,50:6366F1,100:EC4899&height=200&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=70" width="100%" />
 
 <br/>
 
@@ -13,8 +13,8 @@
 <br/><br/>
 
 [![Followers](https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=00f5ff&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77)
-[![Repositories](https://img.shields.io/github/repositories/item-count/criticalHit77?label=Repositories&style=for-the-badge&color=bf5af2&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/criticalHit77?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=stars)
+[![Repositories](https://img.shields.io/github/repositories/item-count/criticalHit77?label=Repositories&style=for-the-badge&color=6366f1&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/criticalHit77?label=Total%20Stars&style=for-the-badge&color=ec4899&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=stars)
 
 </div>
 
@@ -91,6 +91,9 @@ Developer_Status:
 ---
 
 <div align="center">
+
+<!-- Matching Sparkling Tri-Gradient Cylinder Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:EC4899,50:6366F1,100:00F5FF&height=120&section=footer" width="100%" />
 
 *“First, solve the problem. Then, write the code.” — John Johnson*
 
