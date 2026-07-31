@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner with Smooth FadeIn Glow Animation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:6366F1&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=68" width="100%" />
+<!-- Animated Liquid Cyber Venom Flow Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:6366F1&height=200&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=70" width="100%" />
 
 <br/>
 
