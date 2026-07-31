@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- Sparkling Tri-Gradient Cylinder Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F5FF,50:6366F1,100:EC4899&height=200&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=70" width="100%" />
+# ⚡ Sanjay Kumar Mandal
+
+### **Software Engineer @ Amdocs**
+*Specializing in High-Throughput Java/Scala Backend Services & Event-Driven Architecture*
 
 <br/>
 
 <!-- Neon Cyan Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Amdocs;Java+%26+Scala+Backend+Systems+Specialist;Event-Driven+Architecture+with+Apache+Kafka;Mastering+DSA+%26+Distributed+System+Design;Creator+of+DevForge+SDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Amdocs;Java+%26+Scala+Backend+Systems+Specialist;Event-Driven+Architecture+with+Apache+Kafka;Mastering+DSA+%26+Distributed+System+Design;Creator+of+DevForge+SDE" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -86,14 +88,7 @@ Developer_Status:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=criticalHit77&theme=tokyonight" width="48%" alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criticalHit77&theme=tokyonight" width="48%" alt="Repos per Language" />
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Matching Sparkling Tri-Gradient Cylinder Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:EC4899,50:6366F1,100:00F5FF&height=120&section=footer" width="100%" />
+<br/><br/>
 
 *“First, solve the problem. Then, write the code.” — John Johnson*
 
