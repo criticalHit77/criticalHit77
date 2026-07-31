@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Liquid Cyber Venom Flow Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:6366F1&height=200&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=70" width="100%" />
+<!-- Header Banner with Smooth FadeIn Glow Animation -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:6366F1&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%40%20Amdocs%20%7C%20Java%20Backend%20Architect&descSize=16&descAlignY=68" width="100%" />
 
 <br/>
 
@@ -18,7 +18,8 @@
 
 </div>
 
----
+<!-- Animated Glowing Neon Laser Pulse Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### ⚡ Developer Profile Status
 
@@ -33,7 +34,8 @@ Developer_Status:
   Motto: "First, solve the problem. Then, write the code."
 ```
 
----
+<!-- Animated Glowing Neon Laser Pulse Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📈 Neon Synthwave Activity Graph
 
@@ -88,12 +90,10 @@ Developer_Status:
 
 </div>
 
----
+<!-- Animated Glowing Neon Laser Pulse Footer Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
-
-<!-- Animated Liquid Cyber Venom Flow Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:00F5FF&height=120&section=footer" width="100%" />
 
 *“First, solve the problem. Then, write the code.” — John Johnson*
 
