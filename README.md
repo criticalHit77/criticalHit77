@@ -1,15 +1,20 @@
 <div align="center">
 
-# Sanjay Kumar Mandal
-
-**Software Engineer @ Amdocs**
-*Specializing in High-Throughput Java/Scala Backend Services & Event-Driven Systems*
+<!-- Soft Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2ea44f&height=180&section=header&text=Sanjay%20Kumar%20Mandal&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%40%20Amdocs&descSize=16&descAlignY=68" width="100%" />
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/criticalHit77?label=Followers&style=flat-square&color=2ea44f&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77)
-[![Repositories](https://img.shields.io/github/repositories/item-count/criticalHit77?label=Repositories&style=flat-square&color=0969da&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/criticalHit77?label=Total%20Stars&style=flat-square&color=f59e0b&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=stars)
+<!-- Animated Typing SVG Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Amdocs;Building+Scalable+Java%2FScala+Backend+Systems;Kafka+Event-Driven+Architecture;Mastering+DSA+%26+High-Performance+System+Design;Creator+of+DevForge+SDE" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Followers](https://img.shields.io/github/followers/criticalHit77?label=Followers&style=for-the-badge&color=2ea44f&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77)
+[![Repositories](https://img.shields.io/github/repositories/item-count/criticalHit77?label=Repositories&style=for-the-badge&color=0969da&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/criticalHit77?label=Total%20Stars&style=for-the-badge&color=f59e0b&logo=github&cacheSeconds=3600)](https://github.com/criticalHit77?tab=stars)
 
 </div>
 
@@ -19,13 +24,23 @@
 
 Software Engineer at **Amdocs** focused on building high-reliability distributed systems, event-driven microservices, and clean backend architecture.
 
-- 🔭 **Current Focus**: High-throughput distributed data pipelines using **Apache Kafka** & **Spring Boot 3**.
+- 🔭 **Currently Working On**: High-throughput distributed data pipelines using **Apache Kafka** & **Spring Boot 3**.
 - 🚀 **Featured Project**: **[DevForge SDE](https://github.com/criticalHit77/devforge-sde)** — An interactive dual-track preparation platform for DSA & Java Backend Engineering.
-- 🎯 **Engineering Core**: Distributed Systems Architecture, Concurrent Programming in Java/Scala, and Database Optimization.
+- 🎯 **Engineering Focus**: Distributed Systems Design, Concurrent Programming in Java/Scala, and Database Optimization.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ⚡ Animated GitHub Streak & Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=criticalHit77&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
@@ -49,7 +64,7 @@ Software Engineer at **Amdocs** focused on building high-reliability distributed
 
 ---
 
-### 📈 Activity & Analytics
+### 📈 Activity & Language Analytics
 
 <div align="center">
 
@@ -59,5 +74,16 @@ Software Engineer at **Amdocs** focused on building high-reliability distributed
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=criticalHit77&theme=github_dark" width="48%" alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criticalHit77&theme=github_dark" width="48%" alt="Repos per Language" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Soft Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0969da&height=100&section=footer" width="100%" />
+
+*“First, solve the problem. Then, write the code.” — John Johnson*
 
 </div>
